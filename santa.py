@@ -18,7 +18,7 @@ import yagmail
 from random import shuffle
 
 # Sender's email address
-yag = yagmail.SMTP('luke.volpatti@gmail.com')
+yag = yagmail.SMTP('me@example.com')
 
 # Text file that will be read from
 # File must be in appropriate format
