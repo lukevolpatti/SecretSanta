@@ -6,7 +6,7 @@
 # Instructions:
 # 1. Follow steps on yagmail github repository to set up email environment
 # 2. Create text file with names of participants and their email addresses,
-#    one participant per line. Format: Nick Frost nick.frost@northpole.com
+#    one participant per line. Format: Kris Kringle kris.kringle@northpole.com
 #    Name file "people.txt"
 # 3. Make sure people.txt is in the same folder as this script and make sure
 #    that your email address is entered below.
